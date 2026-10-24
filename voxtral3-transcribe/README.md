@@ -1,7 +1,7 @@
 # Voxtral 3: transcribe audio in Python
 
-Companion code for the video **Transcribe Audio with Mistral Voxtral 3 in 5
-Minutes (Python)**. Two scripts, about 60 lines in total:
+Companion code for the video
+[**Transcribe Audio with Mistral Voxtral 3 in 5 Minutes (Python)**](https://youtu.be/OgvltgAR66s). Two scripts, about 60 lines in total:
 
 | File | What it does | Model |
 |---|---|---|

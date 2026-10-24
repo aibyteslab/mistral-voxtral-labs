@@ -8,7 +8,7 @@ so you can rerun every step from the video on your own audio.
 
 | Folder | Video | What you build | Tested with |
 |---|---|---|---|
-| [`voxtral3-transcribe/`](voxtral3-transcribe/) | Transcribe Audio with Mistral Voxtral 3 in 5 Minutes (Python) | Batch transcription with segment timestamps and speaker labels, then realtime streaming over a WebSocket | mistralai 3.4.0, Python 3.14, 2026-10-24 |
+| [`voxtral3-transcribe/`](voxtral3-transcribe/) | [Transcribe Audio with Mistral Voxtral 3 in 5 Minutes (Python)](https://youtu.be/OgvltgAR66s) | Batch transcription with segment timestamps and speaker labels, then realtime streaming over a WebSocket | mistralai 3.4.0, Python 3.14, 2026-10-24 |
 
 Each new video adds a folder here and a row to this table.
 
