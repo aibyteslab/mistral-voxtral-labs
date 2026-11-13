@@ -1,6 +1,6 @@
 # Mistral Voxtral labs
 
-Hands-on labs for **Voxtral**, Mistral AI's speech-to-text models.
+Hands-on labs for **Voxtral**, Mistral AI's speech models (speech to text and text to speech).
 Each lab goes with an AI Bytes Lab video and contains the code shown on screen,
 so you can rerun every step from the video on your own audio.
 
@@ -9,6 +9,7 @@ so you can rerun every step from the video on your own audio.
 | Folder | Video | What you build | Tested with |
 |---|---|---|---|
 | [`voxtral3-transcribe/`](voxtral3-transcribe/) | [Transcribe Audio with Mistral Voxtral 3 in 5 Minutes (Python)](https://youtu.be/OgvltgAR66s) | Batch transcription with segment timestamps and speaker labels, then realtime streaming over a WebSocket | mistralai 3.4.0, Python 3.14, 2026-10-24 |
+| [`voxtral-voice-assistant/`](voxtral-voice-assistant/) | Build a Voice Assistant with Mistral Voxtral in Python | A spoken assistant: Voxtral transcribes, Mistral Small 4 answers, Voxtral TTS speaks, with conversation memory and a running cost | mistralai 3.7.0, Python 3.14, 2026-11-13 |
 
 Each new video adds a folder here and a row to this table.
 
