@@ -1,7 +1,7 @@
 # Voice assistant: Voxtral ears, Mistral Small brain, Voxtral voice
 
 Companion code for the video
-**Build a Voice Assistant with Mistral Voxtral in Python**. One script, about 50 lines:
+[**Build a Voice Assistant with Mistral Voxtral in Python**](https://youtu.be/t9ujkEutTOo). One script, about 50 lines:
 
 | Step | What it does | Model |
 |---|---|---|
